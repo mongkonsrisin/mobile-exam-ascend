@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Exam</string>
+    <string name="back">Back</string>
+    <string name="detail">Detail</string>
+    <string name="products">Products</string>
+    <string name="start_picking_your_treats">Start picking your treats</string>
+</resources>

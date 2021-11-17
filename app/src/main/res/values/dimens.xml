@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_bar_height">56dp</dimen>
+    <dimen name="font_tool_bar_title">20sp</dimen>
+    <dimen name="font_title">18sp</dimen>
+</resources>
